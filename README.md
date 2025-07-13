@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/saidsabry131/DSA-linkedList/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/saidsabry131/DSA-linkedList/tree/master/0234-palindrome-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/saidsabry131/DSA-linkedList/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Two Pointers
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/saidsabry131/DSA-linkedList/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/saidsabry131/DSA-linkedList/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
