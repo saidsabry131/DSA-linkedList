@@ -14,21 +14,22 @@ class Solution {
         {
             return null;
         }
-        ListNode s=h;
-        ListNode f =h.next;
+       ListNode tmp=h;
 
-        while(f!=null )
+        while(h!=null &&h.next!=null )
         {
-            if(f.val!=s.val)
+            if(h.val==h.next.val)
             {
-                s.next=f;
-                s=f;
+                h.next=h.next.next;
+            }else{
+                h=h.next;
             }
 
-            f=f.next;
+           
         }
-        s.next=null;
-        return h;
+
+        
+        return tmp;
         
     }
 }
