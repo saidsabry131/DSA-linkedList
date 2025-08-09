@@ -32,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/saidsabry131/DSA-linkedList/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## Array
+|  |
+| ------- |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/saidsabry131/DSA-linkedList/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/saidsabry131/DSA-linkedList/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 <!---LeetCode Topics End-->
