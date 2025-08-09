@@ -14,22 +14,22 @@ class Solution {
         {
             return null;
         }
-       ListNode tmp=h;
+       ListNode fst=h.next;
+       ListNode sec = h;
 
-        while(h!=null &&h.next!=null )
+       while(fst!=null)
+       {
+        if(fst.val!=sec.val)
         {
-            if(h.val==h.next.val)
-            {
-                h.next=h.next.next;
-            }else{
-                h=h.next;
-            }
-
-           
+            sec.next=fst;
+            sec=fst;
         }
+        fst=fst.next;
+       }
+       sec.next=null;
+       return h;
 
-        
-        return tmp;
+       
         
     }
 }
