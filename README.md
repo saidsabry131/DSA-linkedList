@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/saidsabry131/DSA-linkedList/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2485-find-the-pivot-integer](https://github.com/saidsabry131/DSA-linkedList/tree/master/2485-find-the-pivot-integer) |
 ## Array
 |  |
 | ------- |
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/saidsabry131/DSA-linkedList/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [2485-find-the-pivot-integer](https://github.com/saidsabry131/DSA-linkedList/tree/master/2485-find-the-pivot-integer) |
 <!---LeetCode Topics End-->
