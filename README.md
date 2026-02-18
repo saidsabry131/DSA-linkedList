@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/saidsabry131/DSA-linkedList/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/saidsabry131/DSA-linkedList/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0693-binary-number-with-alternating-bits](https://github.com/saidsabry131/DSA-linkedList/tree/master/0693-binary-number-with-alternating-bits) |
+## Sorting
+|  |
+| ------- |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/saidsabry131/DSA-linkedList/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 <!---LeetCode Topics End-->
