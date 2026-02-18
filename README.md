@@ -52,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/saidsabry131/DSA-linkedList/tree/master/0006-zigzag-conversion) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0693-binary-number-with-alternating-bits](https://github.com/saidsabry131/DSA-linkedList/tree/master/0693-binary-number-with-alternating-bits) |
 <!---LeetCode Topics End-->
