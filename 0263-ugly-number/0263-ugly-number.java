@@ -4,19 +4,23 @@ class Solution {
         {
             return false;
         }
-        if(n==1)
+        if (n==1)
         {
             return true;
         }
-
-        int[] arr = new int[]{2,3,5};
-        for(int i : arr)
+        while ( n%5 ==0)
         {
-            if(n%i==0)
-            {
-               return isUgly(n/i);
-            }
+            n/=5;
         }
-     return false;
+        while ( n%2 ==0)
+        {
+            n/=2;
+        }
+        while ( n%3 ==0)
+        {
+            n/=3;
+        }
+       
+        return n==1;
     }
 }
