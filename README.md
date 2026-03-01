@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/saidsabry131/DSA-linkedList/tree/master/0006-zigzag-conversion) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/saidsabry131/DSA-linkedList/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2485-find-the-pivot-integer](https://github.com/saidsabry131/DSA-linkedList/tree/master/2485-find-the-pivot-integer) |
+## Greedy
+|  |
+| ------- |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/saidsabry131/DSA-linkedList/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 <!---LeetCode Topics End-->
