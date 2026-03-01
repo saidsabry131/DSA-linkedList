@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/saidsabry131/DSA-linkedList/tree/master/0009-palindrome-number) |
+| [0263-ugly-number](https://github.com/saidsabry131/DSA-linkedList/tree/master/0263-ugly-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/saidsabry131/DSA-linkedList/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2485-find-the-pivot-integer](https://github.com/saidsabry131/DSA-linkedList/tree/master/2485-find-the-pivot-integer) |
 ## Array
